@@ -1,7 +1,6 @@
 
 # My Portfolio
 
-Welcome to my portfolio website repository! This project showcase my skills, projects and professional journey.
 
 ![image](https://github.com/I-m-Sushmita/portfolio/assets/144529647/c898a0fb-7fb6-4501-aa8a-b63b709b09f0)
 
