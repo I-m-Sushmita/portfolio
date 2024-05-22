@@ -14,14 +14,9 @@
 - Interactive UI
 
 
-## Installation
+## Check out the live version
 
-Install my-project with npm
-
-```bash 
-  npm install my-project
-  cd my-project
-```
+https://i-m-sushmita.github.io/portfolio/
     
 ## Technology Used
 
